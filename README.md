@@ -15,11 +15,11 @@ The output will print in your terminal and should look like the following:
 [[0, 5, 8, 9], [500, 0, 3, 4], [500, 500, 0, 1], [500, 500, 500, 0]]
 
 # Running Unit Tests
-To run the unit tests use the following in the terminal for the test.py file
+To run the unit tests use the following in the terminal for the test.py file in the root directory
 python -m unittest test.test 
 
 # Running Performance Tests
-To run the performance tests use the following in the terminal for the test_performance.py file
+To run the performance tests use the following in the terminal for the test_performance.py file in the root directory
 python -m test.test_performance
 
 # Contributing 
